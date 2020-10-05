@@ -1,1 +1,1 @@
-# Even-or-Odd-in-odeWars
+# Even-or-Odd-in-CodeWars
